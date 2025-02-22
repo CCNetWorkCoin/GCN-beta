@@ -1,0 +1,2 @@
+# GCN-beta
+GreenCompute Network
