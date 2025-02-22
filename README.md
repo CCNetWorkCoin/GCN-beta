@@ -20,3 +20,5 @@ GreenCompute Network este o platformă descentralizată care transformă resurse
    ```bash
    git clone https://github.com/CCNetWorkCoin/GCN-beta.git
    cd GCN-beta
+## Progress
+- **23 Feb 2025**: First P2P connection live – VPS and WSL stars communicate via TCP!
